@@ -1,8 +1,18 @@
+HELP.md
+target/
+
 # Compiled class file
 *.class
 
 # Log file
 *.log
+
+# IntelliJ files
+.idea
+*.iws
+*.iml
+*.ipr
+.DS_STORE
 
 # BlueJ files
 *.ctxt
